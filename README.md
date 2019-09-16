@@ -7,6 +7,11 @@ GoogleDoc上
 　キム・タエ 日本語文法てびき  日本語翻訳作業
 　https://docs.google.com/document/d/1xjT0LN1qBPJ5CaLecKitjA89mW0L3qRY_J2ncSrhK9o
 
+オリジナル
+http://www.guidetojapanese.org/learn/grammar
+他言語翻訳バージョン
+http://www.guidetojapanese.org/learn/translations/
+
 # その他
 
 ## Githubでの翻訳作業一般例
