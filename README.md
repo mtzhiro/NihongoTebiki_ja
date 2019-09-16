@@ -1,5 +1,5 @@
 # 目的・概要
-キム・タエ "Japanese Grammar Guide" を「日本語文法てびき」として翻訳するプロジェクトです。
+キム・タエ著 "Japanese Grammar Guide" を「日本語文法てびき」として翻訳するプロジェクトです。
 
 翻訳協力者募集中です＞nihongochat.com@outlook.jp
 
