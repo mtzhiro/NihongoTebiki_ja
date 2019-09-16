@@ -1,4 +1,4 @@
-キム・タエ Japanese Guideを「日本語てびき」として翻訳するプロジェクトです。
+キム・タエ "Japanese Grammar Guide" を「日本語文法てびき」として翻訳するプロジェクトです。
 翻訳協力者募集中です＞nihongochat.com@outlook.jp
 
 Githubでの翻訳作業概要
